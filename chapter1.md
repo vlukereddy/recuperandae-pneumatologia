@@ -1,3 +1,4 @@
-# First Chapter
+# Prolegomena
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Let us engage with this historical discussion by familiarizing ourselves with relevant vocabulary to allay confusion.
+
